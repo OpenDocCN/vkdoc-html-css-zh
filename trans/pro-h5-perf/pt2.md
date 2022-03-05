@@ -1,6 +1,6 @@
 ## P A R T 2
 
-![images](images/3square.jpg)
+![images](img/3square.jpg)
 
 ## 性能基础
 

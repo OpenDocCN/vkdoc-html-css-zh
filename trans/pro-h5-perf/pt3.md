@@ -1,6 +1,6 @@
 ## P A R T 3
 
-![images](images/3square.jpg)
+![images](img/3square.jpg)
 
 ## 建立一个网站
 
